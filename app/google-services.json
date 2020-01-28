@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902242327084",
+    "firebase_url": "https://strikewatch-6c59a.firebaseio.com",
+    "project_id": "strikewatch-6c59a",
+    "storage_bucket": "strikewatch-6c59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902242327084:android:49a839585bc79ceb468f89",
+        "android_client_info": {
+          "package_name": "com.nestoras.strikewatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902242327084-q5fgcbkf8njlaqkk4e8n7gas2khjht86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkRJpaY67wXIagGjb_Ug5gZF37VDl4oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902242327084-q5fgcbkf8njlaqkk4e8n7gas2khjht86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
